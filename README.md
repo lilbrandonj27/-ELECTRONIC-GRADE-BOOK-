@@ -267,9 +267,9 @@ This project is licensed under the MIT License.
 
 # Author
 
-Created by Fashad Morrison
+Created by Brandon Jones
 
-GitHub: [https://github.com/FashadKM](https://github.com/FashadKM)
+GitHub: [https://github.com/lilbrandonj27](https://github.com/lilbrandonj27)
 
 ---
 
